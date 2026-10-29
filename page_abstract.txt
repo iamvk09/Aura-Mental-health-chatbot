@@ -1,0 +1,3 @@
+Page Abstract:
+
+This project, AURA Mental Health Chatbot, is designed to provide users with a supportive and interactive platform for mental health assistance. The chatbot leverages natural language processing to engage users in meaningful conversations, offer assessments, and deliver personalized resources. The system includes user authentication, topic detection, and knowledge base integration to ensure relevant and secure interactions. The goal is to make mental health support accessible, confidential, and user-friendly through an intuitive web interface.
